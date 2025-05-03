@@ -21,7 +21,7 @@ This project is a Streamlit-based multimodal assistant designed to assist visual
 
 • PIL – Python Imaging Library for image handling
 
-### 🌟 3. Features :
+### 3. 🌟 Features :
 • Real-time object detection using YOLOv8
 
 • Voice-based interaction powered by Google Gemini
