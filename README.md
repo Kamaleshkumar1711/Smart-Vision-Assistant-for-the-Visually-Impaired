@@ -1,4 +1,4 @@
-#Smart-Vision-Assistant-for-the-Visually-Impaired      
+## Smart-Vision-Assistant-for-the-Visually-Impaired      
 Implementation
 
 📌 Introduction
