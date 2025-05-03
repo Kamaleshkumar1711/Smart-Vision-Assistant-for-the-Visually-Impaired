@@ -1,6 +1,6 @@
-## Smart-Vision-Assistant-for-the-Visually-Impaired      
+# Smart-Vision-Assistant-for-the-Visually-Impaired      
 
-# Implementation
+## Implementation
 
 📌 Introduction :
 This project is a Streamlit-based multimodal assistant designed to assist visually impaired individuals in identifying and understanding objects in their surroundings. By combining YOLOv8 for object detection and Google Gemini for conversational voice assistance, the system provides real-time, voice-guided navigation support. It aims to enhance user safety, independence, and confidence in day-to-day environments like roads, bus stops, and crowded areas.
