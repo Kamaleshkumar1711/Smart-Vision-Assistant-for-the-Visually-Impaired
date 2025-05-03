@@ -1,0 +1,11 @@
+ultralytics==8.0.204
+torch>=2.0.0
+os
+opencv-python
+streamlit
+gtts
+google-generativeai
+Pillow
+pyttsx3
+numpy
+speech_recognition 
